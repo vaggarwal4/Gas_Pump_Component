@@ -1,2 +1,2 @@
-# Gas_Pump_Component
-Designed gas pump components using the Model Driven Architecture
+# Gas-Pump-Components-Model-Driven-Architecture-
+Gas Pump Components using the Model Driven Architecture
